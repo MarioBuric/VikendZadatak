@@ -1,0 +1,6 @@
+C:\Users\korisnik\source\repos\BuricMarioTypeConversion\BuricMarioTypeConversion\bin\Debug\BuricMarioTypeConversion.exe.config
+C:\Users\korisnik\source\repos\BuricMarioTypeConversion\BuricMarioTypeConversion\bin\Debug\BuricMarioTypeConversion.exe
+C:\Users\korisnik\source\repos\BuricMarioTypeConversion\BuricMarioTypeConversion\bin\Debug\BuricMarioTypeConversion.pdb
+C:\Users\korisnik\source\repos\BuricMarioTypeConversion\BuricMarioTypeConversion\obj\Debug\BuricMarioTypeConversion.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\BuricMarioTypeConversion\BuricMarioTypeConversion\obj\Debug\BuricMarioTypeConversion.exe
+C:\Users\korisnik\source\repos\BuricMarioTypeConversion\BuricMarioTypeConversion\obj\Debug\BuricMarioTypeConversion.pdb
