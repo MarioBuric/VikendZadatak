@@ -1,0 +1,6 @@
+C:\Users\korisnik\source\repos\BuricMarioHelloWorld\BuricMarioHelloWorld\bin\Debug\BuricMarioHelloWorld.exe.config
+C:\Users\korisnik\source\repos\BuricMarioHelloWorld\BuricMarioHelloWorld\bin\Debug\BuricMarioHelloWorld.exe
+C:\Users\korisnik\source\repos\BuricMarioHelloWorld\BuricMarioHelloWorld\bin\Debug\BuricMarioHelloWorld.pdb
+C:\Users\korisnik\source\repos\BuricMarioHelloWorld\BuricMarioHelloWorld\obj\Debug\BuricMarioHelloWorld.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\BuricMarioHelloWorld\BuricMarioHelloWorld\obj\Debug\BuricMarioHelloWorld.exe
+C:\Users\korisnik\source\repos\BuricMarioHelloWorld\BuricMarioHelloWorld\obj\Debug\BuricMarioHelloWorld.pdb
